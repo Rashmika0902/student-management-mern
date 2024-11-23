@@ -37,4 +37,6 @@ The **Student Management System** is a web-based application that allows users t
 ![4](https://github.com/user-attachments/assets/43e59c96-e729-4eed-a495-46e0fc181c86)
 
 
+## DEMO VIDEO
 
+[Uploading Recording 2024-10-26 210734.zip…]()
